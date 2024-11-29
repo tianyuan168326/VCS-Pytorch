@@ -57,11 +57,13 @@ Please **[★star]** this repo and **[cite]** the following video semantic compr
   year={2024}
 }
 
-@article{tian2024free,
+@inproceedings{tian2025free,
   title={Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression},
   author={Tian, Yuan and Lu, Guo and Zhai, Guangtao},
-  journal={arXiv preprint arXiv:2409.11718},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={163--183},
+  year={2025},
+  organization={Springer}
 }
 ```
 
